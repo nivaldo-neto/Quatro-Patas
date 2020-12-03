@@ -1,0 +1,187 @@
+/*
+Background: #721B65 (Roxo)
+Opções Ongs: #FFD868 (Amarelo)
+Segunda Pagina: #B80D57 (Rosa)
+Letras: Branco #FFFFFF*/
+
+h1 {
+	color: white;
+	font-size: 80px;
+	font-family: bold;
+}
+
+h2 {
+	color: white;
+	font-size: 40px;
+	font-family: Montserrat Semibold;
+}
+
+h3 {
+	color: white;
+	font-size: 40px;
+	font-family: Montserrat Bold;
+}
+
+h4 {
+	color: white;
+	font-size: 20px;
+	font-family: Montserrat Semibold;
+}
+
+a:link, a:visited {
+	background-color: #FFFFFF;
+  	color: #721B65;
+  	padding: 10px 21px;
+  	text-align: left;
+  	text-decoration: none;
+  	border-radius: 64px;
+  	margin-left: 8px;
+}
+
+p.local_logo {
+	margin-left: 10%;
+	margin-top: 2%;
+	font-variant: small-caps;
+}
+p.local_informacoes{
+	margin-right: 5%;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	margin-top: -6%
+}
+div.titulo_vacina {
+	margin-left: 3%;
+	margin-top: 2%;
+	width: -5%;
+}
+div.campanha_vacina {
+	margin-left: 3%;
+	margin-top: -4%;
+}
+
+div.txt1{
+	background-color: #FFFFFF;
+  	color: #721B65;
+  	padding: 0px 111px;
+  	text-decoration: none;
+  	display: inline-block;
+  	border-radius: 64px;
+  	margin-left: 40px;
+}
+
+div.circulo_pagina1 {
+	margin-left: 52%;
+	margin-top: -29%;
+}
+
+div.circulo_listrado1 {
+	margin-left: 45%;
+	margin-top: -31%;
+}
+
+div.circulo_listrado2 {
+	margin-left: 45%;
+	margin-top: -31%;
+}
+
+div.imagem_pagina1 {
+	margin-left: 58%;
+	margin-top: -40%;
+}
+
+div.local_ONG {
+	text-align: center;
+}
+
+div.dogtitle {
+	margin-left: 0%;
+	margin-top: 25%;
+}
+
+div.dogtext {
+	margin-left: 0%;
+	margin-top: 0%;
+}
+
+div.imagem_tina {
+	margin-left: -6%;
+	margin-top: 3.5%;
+}
+
+div.imagem_lupe {
+	margin-left: -6%;
+	margin-top: -1.4%;
+}
+
+div.imagem_dina {
+	margin-left: -6%;
+	margin-top: -1.4%;
+}
+
+div.dina {
+	background-color: #FFD868;
+	margin-left: 8%;
+	margin-top: 3.5%;
+	text-align: center;
+	border-radius: 8px;
+	width: 20%;
+	height: 40%;
+	padding: 20px;
+}
+
+div.lupe {
+	background-color: #FFD868;
+	margin-left: 38%;
+	margin-top: -21.4%;
+	text-align: center;
+	border-radius: 8px;
+	width: 20%;
+	height: 40%;
+	padding: 20px;
+}
+
+div.tina {
+	background-color: #FFD868;
+	margin-left: 68%;
+	margin-top: -21.4%;
+	text-align: center;
+	border-radius: 8px;
+	width: 20%;
+	height: 40%;
+	padding: 20px;
+}
+
+div.txt2{
+	margin-top: 8%;
+
+}
+
+div.titulo_pagina2 {
+	margin-left: 50%;
+	margin-top: 30%
+}
+
+div.quero_ajudar{
+	background-color: #FFFFFF;
+  	color: #721B65;
+  	padding: 0px 111px;
+  	text-decoration: none;
+  	display: inline-block;
+  	border-radius: 64px;
+  	margin-left: 40%;
+}
+
+div.circulo_pagina2 {
+	margin-left: 1%;
+	margin-top: -45%;
+}
+
+div.imagem_pagina2 {
+	margin-left: 7%;
+	margin-top: -40%;
+}
+
+div.estatistica {
+	text-align: center;
+}
