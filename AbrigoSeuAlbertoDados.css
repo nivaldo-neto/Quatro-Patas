@@ -1,0 +1,127 @@
+/*
+Background: #721B65 (Roxo)
+Opções Ongs: #FFD868 (Amarelo)
+Segunda Pagina: #B80D57 (Rosa)
+Letras: Branco #FFFFFF
+*/
+h1 {
+	color: white;
+	font-size: 40px;
+	font-family: Montserrat bold;
+}
+
+h2 {
+	color: white;
+	font-size: 30px;
+	font-family: Montserrat semibold;
+}
+
+h3 {
+	color: #FFD868;
+	font-size: 20px;
+	font-family: bold;
+}
+
+h4 {
+	color: white;
+	font-size: 40px;
+	font-family: bold;
+}
+
+h5 {
+	color: white;
+	font-size: 40px;
+	font-family: bold;
+}
+
+h6 {
+	color: #FFD868;
+	font-size: 20px;
+	font-family: Montserrat Semibold;
+}
+
+a:link, a:visited {
+    	background-color: #FFFFFF;
+  	color: #721B65;
+  	padding: 10px 21px;
+  	text-align: left;
+  	text-decoration: none;
+  	border-radius: 64px;
+  	margin-left: 8px;
+}
+p.local_logo {
+	margin-left: 10%;
+	margin-top: 2%;
+	font-variant: small-caps;
+}
+
+p.local_opcoes{
+	margin-right: 5%;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	margin-top: -7%
+}
+
+div.local_Abrigo {
+	margin-left: 10%;
+	margin-top: 5%;
+	font-variant: small-caps;
+}
+
+div.local_imagem_abrigo {
+	margin-left: 10%;
+	margin-top: 2%;
+}
+
+div.local_como_atuam {
+	margin-left: 45%;
+	margin-top: -19%;
+}
+
+div.local_info_como_atuam {
+	margin-left: 45%;
+	margin-top: -19%;
+}
+
+div.local_faca_parte {
+	margin-left: 10%;
+	margin-top: 10%;
+	font-variant: small-caps;
+}
+
+
+div.conf_caixa_voluntarios {
+	background-color: #721B65;
+	margin-left: 18%;
+	margin-top: -4%;
+	width: 24%;
+	height: 40%;
+	padding: 2px 200px;
+	border-radius: 64px;
+}
+
+div.local_text_voluntarios {
+	margin-left: -50%;
+	margin-top: -15%;
+}
+
+div.local_text {
+	margin-left: -50%;
+	margin-top: -15%;
+}
+
+div.mais_info {
+	margin-left: -50%;
+	margin-top: -10%;
+}
+
+div.local_dog {
+	margin-left: 80%;
+	margin-top: -46.9%;
+}
+
+div.local_imagem {
+	margin-left: 68%;
+	margin-top: -60%;
+}

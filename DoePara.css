@@ -1,0 +1,73 @@
+/*
+Background: #721B65 (Roxo)
+Opções Ongs: #FFD868 (Amarelo)
+Segunda Pagina: #B80D57 (Rosa)
+Letras: Branco #FFFFFF*/
+
+h1 {
+	color: white;
+	font-size: 60px;
+	font-family: Montserrat Bold;
+}
+
+h2 {
+	color: #FFD868;
+	font-size: 30px;
+	font-family: Montserrat Semibold;
+}
+
+h3 {
+	color: white;
+	font-size: 40px;
+	font-family: bold;
+}
+
+h4 {
+	color: #721B65;
+	font-size: 14px;
+	font-family: bold;
+}
+
+a:link, a:visited {
+  	background-color: #FFFFFF;
+  	color: #721B65;
+  	padding: 10px 21px;
+  	text-align: left;
+  	text-decoration: none;
+  	border-radius: 64px;
+  	margin-left: 8px;
+}
+
+p.local_logo {
+	margin-left: 10%;
+	margin-top: 2%;
+	font-variant: small-caps;
+}
+p.local_informacoes{
+	margin-right: 5%;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	margin-top: -6%
+}
+div.doe_agora {
+	margin-left: 60%;
+	margin-top: 2%;
+	width: -5%;
+}
+div.money {
+
+	margin-left: 60%;
+	margin-top: -2%;
+}
+
+
+
+div.imagem {
+	margin-left: 76%;
+	margin-top: -11%;
+}
+
+
+
+

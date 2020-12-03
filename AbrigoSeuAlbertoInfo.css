@@ -1,0 +1,92 @@
+/*
+Background: #721B65 (Roxo)
+Opções Ongs: #FFD868 (Amarelo)
+Segunda Pagina: #B80D57 (Rosa)
+Letras: Branco #FFFFFF*/
+
+h1 {
+	color: white;
+	font-size: 60px;
+	font-family: Montserrat Bold;
+}
+
+h2 {
+	color: #721B65;
+	font-size: 20px;
+	font-family: Montserrat Semibold;
+}
+h3 {
+	color: #721B65;
+	font-size: 10px;
+	font-family: Montserrat Semibold;
+}
+
+a:link, a:visited {
+  	background-color: #FFFFFF;
+  	color: #721B65;
+  	padding: 10px 21px;
+  	text-align: left;
+  	text-decoration: none;
+  	border-radius: 64px;
+  	margin-left: 8px;
+}
+
+p.local_logo {
+	margin-left: 5%;
+	margin-top: 2%;
+	font-variant: small-caps;
+}
+p.local_informacoes{
+	margin-right: 5%;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	margin-top: -6%
+}
+
+div.local_abrigo {
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+div.bola1 {
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+div.bola2 {
+	margin-left: 30%;
+	margin-top: -14.4%;
+}
+
+div.bola3 {
+	margin-left: 50%;
+	margin-top: -14.4%;
+}
+
+div.bola4 {
+	margin-left: 70%;
+	margin-top: -14.4%;
+}
+
+div.banho_animais {
+	margin-left: 12%;
+	margin-top: -13%;
+}
+
+div.passear {
+	margin-left: 31.5%;
+	margin-top: -7%;
+}
+
+div.limpeza {
+	margin-left: 52%;
+	margin-top: -6%;
+}
+
+div.producao {
+	margin-left: 72%;
+	margin-top: -7%;
+}
+
+

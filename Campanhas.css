@@ -1,0 +1,86 @@
+/*
+Background: #721B65 (Roxo)
+Opções Ongs: #FFD868 (Amarelo)
+Segunda Pagina: #B80D57 (Rosa)
+Letras: Branco #FFFFFF*/
+
+h1 {
+	color: #FFD868;
+	font-size: 40px;
+	font-family: bold;
+}
+
+h2 {
+	color: white;
+	font-size: 20px;
+	font-family: Montserrat Semibold;
+}
+
+h3 {
+	color: #FFD868;
+	font-size: 20px;
+	font-family: bold;
+}
+
+h4 {
+	color: #721B65;
+	font-size: 14px;
+	font-family: bold;
+}
+
+a:link, a:visited {
+  	background-color: #FFFFFF;
+  	color: #721B65;
+  	padding: 10px 21px;
+  	text-align: left;
+  	text-decoration: none;
+  	border-radius: 64px;
+  	margin-left: 8px;
+}
+
+p.local_logo {
+	margin-left: 5%;
+	margin-top: 2%;
+	font-variant: small-caps;
+}
+p.local_informacoes{
+	margin-right: 5%;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	margin-top: -6%
+}
+div.informacoes_titulo {
+	margin-left: 5%;
+	margin-top: 5%;
+	width: -5%;
+}
+div.informacoes_subtitulo1 {
+	margin-left: 5%;
+	margin-top: 0%;
+}
+
+div.informacoes_subtitulo2 {
+	margin-left: 5%;
+	margin-top: 2%;
+}
+
+div.circulo {
+	margin-left: 56%;
+	margin-top: -32%;
+}
+
+div.circulo_listrado1 {
+	margin-left: 45%;
+	margin-top: -31%;
+}
+
+div.circulo_listrado2 {
+	margin-left: 45%;
+	margin-top: -31%;
+}
+
+div.imagem {
+	margin-left: 54%;
+	margin-top: -33%;
+}

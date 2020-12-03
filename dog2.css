@@ -1,0 +1,73 @@
+h1 {
+	color: white;
+	font-size: 40px;
+	font-family: bold;
+}
+
+h2 {
+	color: #FFD868;
+	font-size: 20px;
+	font-family: Montserrat Semibold;
+}
+
+h3 {
+	color: white;
+	font-size: 20px;
+	font-family: bold;
+}
+
+a:link, a:visited {
+  	background-color: white;
+  	color: #721B65;
+  	padding: 10px 21px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	border-radius: 8px;
+}
+
+p.local_logo {
+	margin-left: 5%;
+	margin-top: 2%;
+	font-variant: small-caps;
+}
+p.local_informacoes{
+	margin-right: 5%;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	margin-top: -6%
+}
+
+div.local_tina {
+	margin-left: 40%;
+	margin-top: -33%;
+}
+
+div.local_dados_tina {
+	margin-left: 40%;
+	margin-top: -33%;
+}
+
+div.local_info_tina {
+	margin-left: 10%;
+	margin-top: -33%;
+}
+div.sentro {
+	background-color: #FFD868;
+	margin-left: 5%;
+	margin-top: 3.5%;
+	text-align: center;
+	width: 30%;
+	height: 60%;
+	padding: 20px;
+}
+div.imagem {
+	margin-left: 7%;
+	margin-top: -25%;
+}
+div.txt{
+	margin-left: 65%;
+	margin-top: -7%;
+	padding-top: 5%;
+}
